@@ -1,0 +1,8 @@
+*.o
+*.obj
+*.exe
+/src/MWPlex
+/src/MWPlex_dbg
+/src/kplexes.txt
+*.log
+nohup.out
